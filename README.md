@@ -1,6 +1,6 @@
 # EasyOpenVRActionInput
 
-SteamVR Action Inputを扱う比較的薄いラッパーです。 
+Unity向けのSteamVR Action Inputを扱う比較的薄いラッパーです。 
   
 SteamVR Unity PluginのInput機能に依存せず、OpenVRをほぼ直接操作するため、  
 VRオーバーレイツールや、非VRアプリケーションでも利用することができます。
