@@ -15,6 +15,10 @@ http://creativecommons.org/publicdomain/zero/1.0/deed.ja
   
 ※今後、コードの構造が大きく変わる場合があります。  
   
+## メモ
+HMDがスリープ状態に入ると、コントローラの姿勢が取得できなくなる。(ボタンは取れる)
+EasyOpenVRUtil互換機能では取得できているため、Action Inputの制約かもしれない。
+  
 ## 解説
 Steam VR Input System(OpenVR Action Input)についてのメモ   
 https://qiita.com/gpsnmeajp/items/e423c699dde7aecb25cc  
